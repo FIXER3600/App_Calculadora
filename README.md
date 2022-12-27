@@ -22,7 +22,7 @@
 💬 Estudando na  <a href="http://www.lovepeople.com.br" target="_blank">Lovepeople</a>  , comecei a me desenvolver como Dev mobile em Flutter e este é o primeiro projeto feito no curso com o Framework da Google.
 Neste projeto tive que chegar o mais próximo possível do layout da Calculadora do IPhone e fazê-la funcionar, com pelo menos 2 números por operação, e calcular ao menos as quatro operações básicas matemáticas : Soma, Subtração, Multiplicação e Divisão.
 
-<h2 id="funciona">:rocket: O que funciona </h2>
+<h2 id="funciona">:rocket: Funcionalidades </h2>
 
 ➡️Layout<br>
 ➡️Operações básicas com dois números<br>
