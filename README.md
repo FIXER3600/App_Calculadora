@@ -17,11 +17,12 @@
     
  * [Imagens](#images)
 
-<h3 id="entrada">Tela de entrada</h3>
-<img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721738-31844a57-137d-480b-adc4-98797987bbb1.png
+<h3 id="entrada">Tela inicial</h3>
+<img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721817-3196caa0-98fd-45aa-848f-4a668934996f.png
+                                                         
 " />
-<h3 id="entrada">Tela de entrada</h3>
-<img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721817-3196caa0-98fd-45aa-848f-4a668934996f.png" />
+<h3 id="entrada">Tela com Resultado</h3>
+<img alt="Tela de entrada" width="315" height="537" src="[https://user-images.githubusercontent.com/47544503/209721817-3196caa0-98fd-45aa-848f-4a668934996f.png](https://user-images.githubusercontent.com/47544503/209721738-31844a57-137d-480b-adc4-98797987bbb1.png)" />
 <h4 align="right"><a href="#topo">Topo</a></h4>
 
  <h4 align="right"><a href="#topo">Topo</a></h4>
