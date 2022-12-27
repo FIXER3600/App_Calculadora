@@ -17,6 +17,15 @@
     
  * [Imagens](#images)
 
+<h3 id="entrada">Tela de entrada</h3>
+<img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721738-31844a57-137d-480b-adc4-98797987bbb1.png
+" />
+<h3 id="entrada">Tela de entrada</h3>
+<img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721817-3196caa0-98fd-45aa-848f-4a668934996f.png" />
+<h4 align="right"><a href="#topo">Topo</a></h4>
+
+ <h4 align="right"><a href="#topo">Topo</a></h4>
+
  <h2 id="sobre">Sobre </h2> 
 💬 Estudando na  <a href="http://www.lovepeople.com.br" target="_blank">Lovepeople</a>  , comecei a me desenvolver como Dev mobile em Flutter e este é o primeiro projeto feito no curso com o Framework da Google.
 Neste projeto tive que chegar o mais próximo possível do layout da Calculadora do IPhone e fazê-la funcionar, com pelo menos 2 números por operação, e calcular ao menos as quatro operações básicas matemáticas : Soma, Subtração, Multiplicação e Divisão.
@@ -24,7 +33,7 @@ Neste projeto tive que chegar o mais próximo possível do layout da Calculadora
 <h2 id="funciona">:rocket: O que funciona </h2>
 
 ➡️Layout<br>
-➡️Operações básicas<br>
+➡️Operações básicas com dois números<br>
 ➡️Função de apagar tudo (AC)<br>
 
  <h4 align="right"><a href="#topo">Topo</a></h4>
