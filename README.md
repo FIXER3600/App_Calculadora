@@ -17,12 +17,6 @@
     
  * [Imagens](#images)
 
-<h3 id="entrada">Tela inicial</h3>
-<img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721738-31844a57-137d-480b-adc4-98797987bbb1.png" />
-<h3 id="entrada">Tela com Resultado</h3>
-<img alt="Tela inicial" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721817-3196caa0-98fd-45aa-848f-4a668934996f.png" />
-<h4 align="right"><a href="#topo">Topo</a></h4>
-
 
  <h2 id="sobre">Sobre </h2> 
 💬 Estudando na  <a href="http://www.lovepeople.com.br" target="_blank">Lovepeople</a>  , comecei a me desenvolver como Dev mobile em Flutter e este é o primeiro projeto feito no curso com o Framework da Google.
@@ -35,6 +29,14 @@ Neste projeto tive que chegar o mais próximo possível do layout da Calculadora
 ➡️Função de apagar tudo (AC)<br>
 
  <h4 align="right"><a href="#topo">Topo</a></h4>
+ 
+ <h2 id="images">🖼️ Imagens </h2>
+
+<h3 id="entrada">Tela inicial</h3>
+<img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721738-31844a57-137d-480b-adc4-98797987bbb1.png" />
+<h3 id="entrada">Tela com Resultado</h3>
+<img alt="Tela inicial" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721817-3196caa0-98fd-45aa-848f-4a668934996f.png" />
+<h4 align="right"><a href="#topo">Topo</a></h4>
 
  <h2 id="como-usar"> Como Usar </h2>
 
@@ -43,9 +45,9 @@ Neste projeto tive que chegar o mais próximo possível do layout da Calculadora
 📱Selecione o dispositivo que o projeto irá ser executado<br>
 📱Abrindo a aplicação, toque nos botões do primeiro número que deseja calcular, a operação que deseja realizar e o segundo número, após isso toque no botão de igualdade (=) para mostrar o resultado. <br>
 
+<h4 align="right"><a href="#topo">Topo</a></h4>
 
 
-<h2 id="images">🖼️ Imagens </h2>
 
 
 <h2 align="center">
