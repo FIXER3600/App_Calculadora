@@ -155,7 +155,7 @@ class _CalculatorState extends State<Calculator> {
         onPressed: () => {calc(text)},
         style: ElevatedButton.styleFrom(
             shape: StadiumBorder(), backgroundColor: color),
-        child: Text(text, style: TextStyle(fontSize: 21, color: colorText)),
+        child: Text(text, style: TextStyle(fontSize: 20, color: colorText,fontFamily: 'SF-Pro')),
       ),
     );
   }
@@ -181,13 +181,15 @@ class _CalculatorState extends State<Calculator> {
                           style: TextStyle(
                               color: Colors.grey.shade700,
                               fontWeight: FontWeight.bold,
-                              fontSize: 17),
+                              fontSize: 17,
+                              fontFamily: 'SF-Pro'),
                         ),
                       ),
                       Padding(padding: EdgeInsets.only(right: 30),
                       child: Text(
                         '$showText',
                         style: TextStyle(fontSize: 80, color: Colors.white,
+                        fontFamily: 'SF-Pro'
                        ),
                       ),),
                       Padding(
