@@ -30,7 +30,7 @@ Neste projeto tive que chegar o mais próximo possível do layout da Calculadora
 
  <h4 align="right"><a href="#topo">Topo</a></h4>
  
- <h2 id="images">:frame_photo: Imagens </h2>
+ <h2 id="images"> Imagens </h2>
 
 <h3 id="entrada">Tela inicial</h3>
 <img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721738-31844a57-137d-480b-adc4-98797987bbb1.png" />
