@@ -33,9 +33,13 @@ Neste projeto tive que chegar o mais próximo possível do layout da Calculadora
  <h2 id="images">🖼️ Imagens </h2>
 
 <h3 id="entrada">Tela inicial</h3>
-<img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721738-31844a57-137d-480b-adc4-98797987bbb1.png" />
-<h3 id="entrada">Tela com Resultado</h3>
-<img alt="Tela inicial" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/209721817-3196caa0-98fd-45aa-848f-4a668934996f.png" />
+<img alt="Tela de entrada" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/212447687-b99b26ea-8057-4f83-b7d5-79f4702863a8.png" />
+<h3 id="entrada">Tela de Formulário</h3>
+<img alt="Tela inicial" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/212447709-24debfb4-2535-4d0d-aee0-9ceef5f64e86.png" />
+<h3 id="entrada">Tela de Formulário indicando Erro no Campo de Texto</h3>
+<img alt="Tela inicial" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/212447741-fe3e9176-44cb-45e3-8044-ebad06950482.png"/>
+<h3 id="entrada">Tela Inicial listando Tarefas</h3>
+<img alt="Tela inicial" width="315" height="537" src="https://user-images.githubusercontent.com/47544503/212447778-9039ce95-10bb-4173-837a-a40a29a685e2.png"/>
 <h4 align="right"><a href="#topo">Topo</a></h4>
 
  <h2 id="como-usar"> Como Usar </h2>
